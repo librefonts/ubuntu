@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Ubuntu-Medium.ttf.GlyphOrder.ttx"/>
+  <head src="Ubuntu-Medium.ttf._h_e_a_d.ttx"/>
+  <hhea src="Ubuntu-Medium.ttf._h_h_e_a.ttx"/>
+  <maxp src="Ubuntu-Medium.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Ubuntu-Medium.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Ubuntu-Medium.ttf._h_m_t_x.ttx"/>
+  <LTSH src="Ubuntu-Medium.ttf.L_T_S_H_.ttx"/>
+  <VDMX src="Ubuntu-Medium.ttf.V_D_M_X_.ttx"/>
+  <hdmx src="Ubuntu-Medium.ttf._h_d_m_x.ttx"/>
+  <cmap src="Ubuntu-Medium.ttf._c_m_a_p.ttx"/>
+  <fpgm src="Ubuntu-Medium.ttf._f_p_g_m.ttx"/>
+  <prep src="Ubuntu-Medium.ttf._p_r_e_p.ttx"/>
+  <cvt src="Ubuntu-Medium.ttf._c_v_t.ttx"/>
+  <loca src="Ubuntu-Medium.ttf._l_o_c_a.ttx"/>
+  <glyf src="Ubuntu-Medium.ttf._g_l_y_f.ttx"/>
+  <kern src="Ubuntu-Medium.ttf._k_e_r_n.ttx"/>
+  <name src="Ubuntu-Medium.ttf._n_a_m_e.ttx"/>
+  <post src="Ubuntu-Medium.ttf._p_o_s_t.ttx"/>
+  <gasp src="Ubuntu-Medium.ttf._g_a_s_p.ttx"/>
+  <GPOS src="Ubuntu-Medium.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Ubuntu-Medium.ttf.G_S_U_B_.ttx"/>
+  <DSIG src="Ubuntu-Medium.ttf.D_S_I_G_.ttx"/>
+</ttFont>
