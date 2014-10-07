@@ -1,0 +1,10 @@
+commit: HEAD
+process_files: [Ubuntu-MediumItalic.ttf.ttx, Ubuntu-Italic.ttf.ttx, Ubuntu-Regular.ttf.ttx,
+  Ubuntu-Medium.ttf.ttx, Ubuntu-LightItalic.ttf.ttx, Ubuntu-Light.ttf.ttx, Ubuntu-BoldItalic.ttf.ttx,
+  Ubuntu-Bold.ttf.ttx, src/VTT/Ubuntu-LI-hinting.ttf.ttx, src/VTT/Ubuntu-C-hinting.ttf.ttx,
+  src/VTT/Ubuntu-R-hinting.ttf.ttx, src/VTT/Ubuntu-L-hinting.ttf.ttx, src/VTT/Ubuntu-B-hinting.ttf.ttx,
+  src/VTT/Ubuntu-M-hinting.ttf.ttx, src/VTT/Ubuntu-BI-hinting.ttf.ttx, src/VTT/Ubuntu-MI-hinting.ttf.ttx,
+  src/VTT/Ubuntu-RI-hinting.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
